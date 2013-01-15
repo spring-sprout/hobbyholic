@@ -1,15 +1,7 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# Gradle #
-build/
-.gradle/
-
 # IntelliJ IDEA #
-*.ipr
 *.iml
 *.iws
+.idea/
+
+# Maven #
+target/

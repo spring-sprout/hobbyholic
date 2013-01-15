@@ -8,3 +8,8 @@
 # Gradle #
 build/
 .gradle/
+
+# IntelliJ IDEA #
+*.ipr
+*.iml
+*.iws

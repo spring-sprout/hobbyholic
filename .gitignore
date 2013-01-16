@@ -14,3 +14,7 @@ build/
 *.iml
 *.iws
 out
+
+# Build #
+src/main/webapp/WEB-INF/classes
+src/main/webapp/wEB-INF/lib

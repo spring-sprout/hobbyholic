@@ -1,4 +1,4 @@
-package org.springsprout.hobbyholic.web;
+package org.springsprout.hobbyholic.bootstrap;
 
 import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.ContextLoaderListener;

@@ -11,7 +11,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
  * @author Keesun Baik
  */
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration(classes = AppConfig.class)
+@ContextConfiguration(locations = "/applicationContext.xml")
 public class AppConfigTests {
 
     @Autowired ApplicationContext applicationContext;

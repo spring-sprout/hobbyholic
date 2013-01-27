@@ -12,3 +12,6 @@ out/
 src/main/webapp/WEB-INF/classes
 src/main/webapp/wEB-INF/lib
 target/
+
+# OSX System Files #
+.DS_Store
